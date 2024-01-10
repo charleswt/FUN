@@ -1,0 +1,1 @@
+const backGroundArray = [/imgs/background1.jpg]
